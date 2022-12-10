@@ -1,17 +1,47 @@
 # ¡Dale a Chat Gpt tu voz y observa cómo cobra vida este asistente personal!
 
-<img src="ChatGPT.jpg">
+
+![photo](840_560.jpg)
  
 ChatGpt es un servicio de OpenIA que le brinda el poder de la inteligencia artificial para crear fácilmente un bot asistente personal que se encargará de cualquier tarea que se le presente!
  
 Quería crear algo que realmente entusiasmara a todos, los inspirara, les hiciera la vida más fácil y los hiciera sonreír. Así que he decidido dotar a ChatGpt de superpoderes. por lo que le agregue una capa que utiliza reconocimiento de voz para comunicarse con humanos. Como si estuviera hablando con Jarvis de Iron Man.
  
-Nota
-el script no es perfecto por lo que si no hablas en un periodo de tiempo python lanza una excepción cerrando en programa
- 
+### Nota:
+El script no es perfecto por lo que si no hablas en un periodo de tiempo python lanza una excepción cerrando en programa
+
+**Verifica que tu microfono este encendido**
+
 ## Ejemplo de Uso
 
 
+- **Pregunta:** me interesa aprender ingeniería de datos Qué ruta debería seguir
+<audio controls="controls">
+  <source type="audio/mp3" src="filename.mp3"></source>
+  <source type="audio/ogg" src="filename.ogg"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+- **Respuesta:**
+<audio controls="controls">
+  <source type="audio/mp3" src="filename.mp3"></source>
+  <source type="audio/ogg" src="filename.ogg"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+ - **Pregunta:** que me recomendarías aprender primero R o Python
+<audio controls="controls">
+  <source type="audio/mp3" src="filename.mp3"></source>
+  <source type="audio/ogg" src="filename.ogg"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+- **Respuesta:**
+<audio controls="controls">
+  <source type="audio/mp3" src="filename.mp3"></source>
+  <source type="audio/ogg" src="filename.ogg"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
  
 ## Información importante: 
 use la libreria [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT). Es un cliente no oficial ChatGpt que genera un token de autenticación de OpenIA
@@ -21,11 +51,9 @@ También me inspiré en el video de [AVM](https://www.youtube.com/watch?v=8WKjX0
 ## 🎁 Recursos:
  
 ### descarga el repositorio
-
-git clone https://github.com/edwight-delgado/ChatGpt-speech-recognition-.git
- 
-descomprime
----
+```bash
+    git clone https://github.com/edwight-delgado/ChatGpt-speech-recognition-.git
+```
  
 ### crea un entorno virtual
 ```bash
