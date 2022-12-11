@@ -32,6 +32,7 @@ def main(lang='es'):
             write = csv.writer(f)
             while True:
                 print("Say something!")
+                #message = input('di algo: ')
                 message = listen.listen()
                 print(f"Recognized: {message}")
                 answer = chat.ask(message)
