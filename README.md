@@ -12,36 +12,12 @@ El script no es perfecto por lo que si no hablas en un periodo de tiempo python 
 
 **Verifica que tu microfono este encendido**
 
-## Ejemplo de Uso
+## Ejemplo de Uso 🤖
 
+![photo2](https://media.tenor.com/WdMAHbF-yVYAAAAM/think-about-it-reece-simpson.gif)
 
-- **Pregunta:** me interesa aprender ingeniería de datos Qué ruta debería seguir
-<audio controls="controls">
-  <source type="audio/mp3" src="filename.mp3"></source>
-  <source type="audio/ogg" src="filename.ogg"></source>
-  <p>Your browser does not support the audio element.</p>
-</audio>
+[ejemplos de preguntas y respuesta](https://edwight-delgado.github.io/ChatGpt-speech-recognition-/example/)
 
-- **Respuesta:**
-<audio controls="controls">
-  <source type="audio/mp3" src="filename.mp3"></source>
-  <source type="audio/ogg" src="filename.ogg"></source>
-  <p>Your browser does not support the audio element.</p>
-</audio>
-
- - **Pregunta:** que me recomendarías aprender primero R o Python
-<audio controls="controls">
-  <source type="audio/mp3" src="filename.mp3"></source>
-  <source type="audio/ogg" src="filename.ogg"></source>
-  <p>Your browser does not support the audio element.</p>
-</audio>
-
-- **Respuesta:**
-<audio controls="controls">
-  <source type="audio/mp3" src="filename.mp3"></source>
-  <source type="audio/ogg" src="filename.ogg"></source>
-  <p>Your browser does not support the audio element.</p>
-</audio>
  
 ## Información importante: 
 use la libreria [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT). Es un cliente no oficial ChatGpt que genera un token de autenticación de OpenIA
